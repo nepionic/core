@@ -89,3 +89,4 @@ tchmipublish.journal.json
 ### Windows files ###
 Thumbs.db
 *.htm
+/.vs
